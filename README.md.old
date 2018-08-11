@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPython in depth tutorial
 
 Try it out on Binder! [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder%2FIndex.ipynb)
@@ -53,3 +54,7 @@ time:
 
 The image contains a installation of the Jupyter notebook with R, Julia,
 Python2, Python3 and a couple of libraries for each language.
+=======
+# -laughing-octo-computing-machine
+basic training programs for java beginners
+>>>>>>> cb179ebf55f129e291bffe121fdb1a0fe977ed03
